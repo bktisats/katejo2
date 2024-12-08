@@ -105,7 +105,7 @@
                 <label for="returnDate">Обратная дата:</label>
                 <input type="date" id="returnDate" name="returnDate">
             </div>
-            <A href="file:///C:/Users/User/Desktop/HTMLPage3.html">
+            <A href="https://bktisats.github.io/katejo3/">
             <img SCR="tbl.jpg" BORDER=0>
             </A>
             <div style="flex-basis: 100%; text-align: center; margin-top: 1em;">
