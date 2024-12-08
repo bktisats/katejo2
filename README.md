@@ -106,11 +106,11 @@
                 <input type="date" id="returnDate" name="returnDate">
             </div>
             <div style="flex-basis: 100%; text-align: center; margin-top: 1em;"> 
-            <A href="https://bktisats.github.io/katejo3/">
-            <img SCR="tbl.jpg" BORDER=0>
-            </A>
                 <button type="submit" style="background: #005599; color: white; padding: 0.8em 1.5em; border: none; border-radius: 5px; font-size: 1em; cursor: pointer;">
-                    Искать билеты
+                    <A href="https://bktisats.github.io/katejo3/">
+                    <img SCR="tbl.jpg" BORDER=0>
+                    </A>
+                        Искать билеты
                 </button>
             </div>
         </form>
